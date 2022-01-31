@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tyler McCormick</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Tyler McCormick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I&amp;rsquo;m Tyler. I&amp;rsquo;m a 19 year old second year student studying Computer Science at the University of Colorado in Boulder, Colorado. I&amp;rsquo;m interested in game development mostly, but enjoy basically anything tech related.
+Anything interesting I make will be put on this site.
+I enjoy video games, playing instruments, cooking, and baking.
+Skills I&amp;rsquo;m proficient in languages such as C/C++, HTML/CSS, and Python.
+Notable Classes  CSCI 2700 - Data Structures CSCI 2824 - Discrete Structures CSCI 3308 - Software Development Methods* CSCI 2400 - Computer Systems* CSCI 2820 - Linear Algebra w/ CS Applications*  * = currently taking</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/</guid>
+      <description>My Projects Project Stopwatch (WIP) Current work in progress roguelike action game developed by me and few others. Made with Unity.
+CU Buffs Fueling Station Web Portal (WIP) Web portal for CU Boulder athletic trainers and coaches to view data collected from CU Buffs Fueling Station iOS App (Devloped by Jake Derouin) Created using HTML/CSS, Node.js, and PostgreSQL</description>
+    </item>
+    
+  </channel>
+</rss>
