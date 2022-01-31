@@ -7,4 +7,4 @@ Current work in progress roguelike action game developed by me and few others. M
 
 ## _CU Buffs Fueling Station Web Portal (WIP)_
 Web portal for CU Boulder athletic trainers and coaches to view data collected from CU Buffs Fueling Station iOS App (Devloped by Jake Derouin)
-Created using HTML/CSS, Node.js, and PostgreSQL 
+Created using HTML/CSS, Node.js, and PostgreSQL. Currently a work in progress.
