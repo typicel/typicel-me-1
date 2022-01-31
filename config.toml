@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://typicel.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Tyler McCormick"
