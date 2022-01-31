@@ -1,7 +1,7 @@
 baseURL = "https://typicel.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Tyler McCormick"
+title = "typicel"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
