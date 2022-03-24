@@ -74,3 +74,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "Projects"
     url = "projects/"
     weight = 20
+
+  [[menu.main]]
+    name = "Schoolweek"
+    url = "https://schoolweek.netlify.app"
+    weight=20
